@@ -151,7 +151,7 @@ VeggieBites was developed to blend modern web development practices with a passi
 
 ---
 
-Made with ❤️ by [Manu Kaushik]
+Made with ❤️ by Manu Kaushik
 ```
 
 Let me know if you'd like to include badges (e.g., for license, build status, etc.) or a demo link!
